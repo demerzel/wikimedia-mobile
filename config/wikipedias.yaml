@@ -134,3 +134,16 @@ it:
     article_of_the_day: "#Vetrina ~ div"
     news_items: "a[id='Novit.C3.A0'] ~ div"
   
+ml: 
+  main_page: "പ്രധാന_താള്%E2%80%8D"
+  translations:
+    go: "പോകൂ"
+    search_results: "തിരച്ചിലിന്റെ ഫലം"
+    no_article_found: "No Article Found"
+    featured_article: "തെരഞ്ഞെടുത്ത ലേഖനം"
+    in_the_news: "വാര്‍ത്തകള്‍"
+    random_article: "ഓട്ടപ്രദക്ഷിണം"
+    copyright: "ഉള്ളടക്കം GNU Free Documentation License പ്രകാരം ലഭ്യം."
+  selectors:
+    article_of_the_day: "#mc0ps1"
+    news_items: "#mc2ps1"
