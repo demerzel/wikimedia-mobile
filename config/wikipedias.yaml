@@ -147,3 +147,31 @@ ml:
   selectors:
     article_of_the_day: "#mc0ps1"
     news_items: "#mc2ps1"
+
+hi: 
+  main_page: "मुखपृष्ठ"
+  translations:
+    go: "जाएँ"
+    search_results: "खोज के परिणाम"
+    no_article_found: "No Article Found"
+    featured_article: "रमुख लेख"
+    in_the_news: "समाचार"
+    random_article: "किसी एक लेख पर जाएँ"
+    copyright: "ग्नू मुक्त प्रलेखन अनुमति पत्र अन्तरगत उपलब्ध सामग्री।"
+  selectors:
+    article_of_the_day: "div#bodyContent > table:eq(2) > tr:eq(1) > td.MainPageBG:eq(1) > table > tr:eq(2) > td"
+    news_items: "div#bodyContent > table:eq(2) > tr:eq(1) > td.MainPageBG:eq(2) > table > tr:eq(2) > td"
+
+ta: 
+  main_page: "முதற்_பக்கம்"
+  translations:
+    go: "செல்"
+    search_results: "தேடல் முடிவுகள்"
+    no_article_found: "No Article Found"
+    featured_article: "முதற்பக்கக் கட்டுரைகள்"
+    in_the_news: "செய்திகளில்"
+    random_article: "ஏதாவது ஒரு கட்டுரை"
+    copyright: "உள்ளடக்கம் GNU Free Documentation License இன் கீழ் கிடைக்கும்."
+  selectors:
+    article_of_the_day: "#mp-tfa"
+    news_items: "#mp-itn"
